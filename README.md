@@ -1,0 +1,2 @@
+# mmc
+Modelación Matemática Computacional
