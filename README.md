@@ -11,5 +11,6 @@ En el respositorio se usa
 
 
 ```markdown
-![Image](src)
+![calor](calor.png "ec calor")
 ```
+<img src="calor.png" alt="ec calor" width="200"/>
